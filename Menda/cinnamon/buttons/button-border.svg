@@ -22,10 +22,9 @@
   <defs
      id="defs33224">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient3772">
       <stop
-         style="stop-color:#4d4f52;stop-opacity:1"
+         style="stop-color:#8cbc65;stop-opacity:1;"
          offset="0"
          id="stop3774" />
       <stop
@@ -95,11 +94,11 @@
     <linearGradient
        id="linearGradient3845-0">
       <stop
-         style="stop-color:#000000;stop-opacity:0.18039216;"
+         style="stop-color:#8cbc65;stop-opacity:0.18039216;"
          offset="0"
          id="stop3847-1" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.43137255;"
+         style="stop-color:#8cbc65;stop-opacity:0.43137255;"
          offset="1"
          id="stop3849-3" />
     </linearGradient>
@@ -132,16 +131,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="7.5400943"
+     inkscape:cx="-3.1161557"
      inkscape:cy="9.9160787"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="741"
+     inkscape:window-width="1280"
+     inkscape:window-height="672"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"

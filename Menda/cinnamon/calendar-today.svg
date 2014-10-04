@@ -34,16 +34,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1245"
-     inkscape:window-height="720"
+     inkscape:window-width="1280"
+     inkscape:window-height="672"
      id="namedview15"
      showgrid="true"
      inkscape:zoom="9.44"
-     inkscape:cx="2.6640275"
+     inkscape:cx="13.820399"
      inkscape:cy="26.295415"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
@@ -56,14 +56,13 @@
   <defs
      id="defs4">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient3770">
       <stop
-         style="stop-color:#4180fb;stop-opacity:1;"
+         style="stop-color:#8cbc65;stop-opacity:1;"
          offset="0"
          id="stop3772" />
       <stop
-         style="stop-color:#4180fb;stop-opacity:0;"
+         style="stop-color:#8cbc65;stop-opacity:0;"
          offset="1"
          id="stop3774" />
     </linearGradient>

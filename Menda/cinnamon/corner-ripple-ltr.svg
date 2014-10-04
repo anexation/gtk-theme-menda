@@ -14,18 +14,18 @@
    height="52"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="ripple.svg">
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="corner-ripple-ltr.svg">
   <defs
      id="defs4">
     <linearGradient
        id="linearGradient3857">
       <stop
-         style="stop-color:#398dd3;stop-opacity:0;"
+         style="stop-color:#8cbc65;stop-opacity:0;"
          offset="0"
          id="stop3859" />
       <stop
-         style="stop-color:#398cd3;stop-opacity:1;"
+         style="stop-color:#8cbc65;stop-opacity:1;"
          offset="1"
          id="stop3861" />
     </linearGradient>
@@ -70,7 +70,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="-19.986036"
+     inkscape:cx="-50.432465"
      inkscape:cy="44.805381"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -78,10 +78,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1055"
+     inkscape:window-width="1280"
+     inkscape:window-height="672"
      inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -124,7 +124,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -141,7 +141,7 @@
        sodipodi:cy="0"
        sodipodi:rx="52"
        sodipodi:ry="52"
-       d="M 52,0 A 52,52 0 1 1 -52,0 52,52 0 1 1 52,0 z"
+       d="M 52,0 C 52,28.718807 28.718807,52 0,52 -28.718807,52 -52,28.718807 -52,0 c 0,-28.718807 23.281193,-52 52,-52 28.718807,0 52,23.281193 52,52 z"
        transform="translate(0,1000.3622)" />
   </g>
 </svg>

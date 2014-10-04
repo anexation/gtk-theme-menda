@@ -167,17 +167,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="-0.292537"
+     inkscape:cx="-10.948787"
      inkscape:cy="4.9827311"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1118"
-     inkscape:window-height="650"
-     inkscape:window-x="221"
-     inkscape:window-y="72"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="672"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
      inkscape:showpageshadow="false"
@@ -239,6 +239,6 @@
        height="13.999999"
        width="15"
        id="rect17861-2"
-       style="color:#000000;fill:none;stroke:#4080fb;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:none;stroke:#8cbc65;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>

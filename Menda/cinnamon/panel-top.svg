@@ -15,21 +15,20 @@
    id="svg3783"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="panel-bottom.svg"
+   sodipodi:docname="panel-top.svg"
    inkscape:export-filename="/home/matthieu/Eye-Candy/Faience/0.5/theme/Faience/gnome-shell/assets/search-section-header.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
   <defs
      id="defs3785">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient3832">
       <stop
-         style="stop-color:#4d4e52;stop-opacity:1"
+         style="stop-color:#484d48;stop-opacity:1;"
          offset="0"
          id="stop3834" />
       <stop
-         style="stop-color:#3d3e40;stop-opacity:1"
+         style="stop-color:#484d48;stop-opacity:1;"
          offset="1"
          id="stop3836" />
     </linearGradient>
@@ -472,16 +471,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.000001"
-     inkscape:cx="12.787201"
+     inkscape:cx="2.1309517"
      inkscape:cy="12.622361"
      inkscape:document-units="px"
      inkscape:current-layer="g3027"
      showgrid="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="696"
+     inkscape:window-width="1280"
+     inkscape:window-height="672"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      fit-margin-top="0"
@@ -513,7 +512,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
