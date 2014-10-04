@@ -89,19 +89,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="7.3210734"
-     inkscape:cy="8.6616151"
+     inkscape:zoom="45.254834"
+     inkscape:cx="10.251665"
+     inkscape:cy="8.8681509"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="848"
-     inkscape:window-height="662"
-     inkscape:window-x="397"
-     inkscape:window-y="208"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="669"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:snap-global="true"
      inkscape:snap-bbox-midpoints="false">
@@ -140,7 +140,7 @@
      transform="translate(0,-1037.3622)">
     <path
        sodipodi:type="arc"
-       style="fill:#2bff02;fill-opacity:0.54032258;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#4c4e51;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path3892"
        sodipodi:cx="8"
        sodipodi:cy="7"
@@ -176,7 +176,15 @@
        sodipodi:cy="7"
        sodipodi:rx="4"
        sodipodi:ry="4"
-       d="M 12,7 C 12,9.209139 10.209139,11 8,11 5.790861,11 4,9.209139 4,7 4,4.790861 5.790861,3 8,3 c 2.209139,0 4,1.790861 4,4 z"
-       transform="translate(0,1037.3622)" />
+       d="M 12,7 A 4,4 0 1 1 4,7 4,4 0 1 1 12,7 z"
+       transform="translate(15,1037.3622)" />
+    <rect
+       style="fill:#4c4e51;fill-opacity:1;stroke:#8cbc65;stroke-width:0.96649832;stroke-opacity:1"
+       id="rect3771"
+       width="6.0335016"
+       height="0.43350166"
+       x="4.9832492"
+       y="1044.1454"
+       ry="0.082365304" />
   </g>
 </svg>
