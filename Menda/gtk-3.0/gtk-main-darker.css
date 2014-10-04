@@ -2,7 +2,7 @@
 @define-color theme_fg_color #3c3c3e;
 @define-color theme_bg_color #F5F5F7;
 @define-color theme_base_color white;
-@define-color theme_selected_bg_color #4080fb;
+@define-color theme_selected_bg_color #8CBC65;
 @define-color theme_selected_fg_color white;
 @define-color insensitive_bg_color #f4f4f4;
 @define-color insensitive_fg_color #a7a7a7;
@@ -11,7 +11,7 @@
 @define-color error_color #cc0000;
 @define-color success_color #73d216;
 @define-color content_view_bg white;
-@define-color link_color #2a76c6;
+@define-color link_color #8CBC65;
 
 @define-color selected_bg_color @theme_selected_bg_color;
 @define-color fg_color @theme_selected_fg_color;
@@ -33,8 +33,8 @@
 @define-color button_active_text @theme_selected_fg_color;
 @define-color button_active_text_shadow alpha(black, 0.4);
 
-@define-color suggested_action_button_a #6496F5;
-@define-color suggested_action_button_b #5A86DB;
+@define-color suggested_action_button_a #8CBC65;
+@define-color suggested_action_button_b #8CBC65;
 
 @define-color suggested_action_button_fg white;
 @define-color suggested_action_button_shadow alpha(black, 0.3);
@@ -50,12 +50,12 @@
 @define-color notebook_tab_gradient_a @wm_bg_b;
 @define-color notebook_tab_gradient_b shade(@wm_bg_b, 0.98);
 
-@define-color scale_highlight_bg_a #525355;
-@define-color scale_highlight_bg_b #616264;
+@define-color scale_highlight_bg_a #525552;
+@define-color scale_highlight_bg_b #616461;
 
 @define-color progressbar_background_a shade(@theme_selected_bg_color, 1.1);
 @define-color progressbar_background_b @theme_selected_bg_color;
-@define-color progressbar_border #404143;
+@define-color progressbar_border #404340;
 /*@define-color progressbar_highlight #66CBFF;*/
 @define-color progressbar_highlight mix (alpha(white, 1.0), @progressbar_background_a, 0.7);
 
@@ -74,8 +74,8 @@
 @define-color infobar_text_shadow alpha(white, 0.7);
 
 
-@define-color selection_toolbar_bg_a #3465a4;
-@define-color selection_toolbar_bg_b #1d437b;
+@define-color selection_toolbar_bg_a #8CBC65;
+@define-color selection_toolbar_bg_b #669440;
 @define-color selection_toolbar_border shade(@selection_toolbar_bg_b, 0.75);
 @define-color selection_button_text_shadow alpha(black, 0.5);
 
@@ -92,14 +92,14 @@
  *******/
 @define-color osd_text_shadow alpha(black, 0.75);
 
-@define-color osd_toolbar_bg_a alpha(shade(#3D3E40, 1.15), 0.75);
-@define-color osd_toolbar_bg_b alpha(shade(#3D3E40, 0.85), 0.75);
+@define-color osd_toolbar_bg_a alpha(shade(#3D403D, 1.15), 0.75);
+@define-color osd_toolbar_bg_b alpha(shade(#3D403D, 0.85), 0.75);
 
 @define-color osd_button_bg_a @osd_toolbar_bg_a;
 @define-color osd_button_bg_b @osd_toolbar_bg_b;
 
-@define-color osd_trough_bg_a alpha(shade(#3a3b3d, 0.6), 0.5);
-@define-color osd_trough_bg_b alpha(shade(#444446, 0.6), 0.5);
+@define-color osd_trough_bg_a alpha(shade(#3A3D3A, 0.6), 0.5);
+@define-color osd_trough_bg_b alpha(shade(#444644, 0.6), 0.5);
 
 /*****************
  * Fallback Mode *
@@ -124,14 +124,14 @@
 @define-color wm_bg_a shade (@theme_bg_color, 1.3);
 @define-color wm_bg_b @theme_bg_color;
 @define-color metacity_bg_a @dark_wm_bg_a;
-@define-color metacity_bg_b #454749;
+@define-color metacity_bg_b #454945;
 
 @define-color wm_shadow alpha(black, 0.5);
 @define-color window_frame alpha(black, 0.3);
 @define-color wm_border black;
 
 /********/
-@define-color dark_bg_color #3D3E40;
+@define-color dark_bg_color #3D403D;
 @define-color dark_fg_color #F3F3F5;
 
 @define-color dark_insensitive_bg_color shade(@dark_bg_color, 1.1);
@@ -153,8 +153,8 @@
 @define-color dark_notebook_tab_gradient_a @dark_wm_bg_b;
 @define-color dark_notebook_tab_gradient_b shade(@dark_wm_bg_b, 0.9);
 
-@define-color dark_suggested_action_button_a #407cbc;
-@define-color dark_suggested_action_button_b #2a5285;
+@define-color dark_suggested_action_button_a #8CBC65;
+@define-color dark_suggested_action_button_b #669440;
 
 @define-color dark_scale_highlight_bg_a shade(@dark_bg_color, 1.2);
 @define-color dark_scale_highlight_bg_b shade(@dark_bg_color, 1.5);

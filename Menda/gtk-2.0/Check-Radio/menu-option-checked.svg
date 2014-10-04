@@ -42,11 +42,11 @@
     <linearGradient
        id="linearGradient3845-2">
       <stop
-         style="stop-color:#4080fb;stop-opacity:0.47058824;"
+         style="stop-color:#8cbc65;stop-opacity:0.47058824;"
          offset="0"
          id="stop3847-7" />
       <stop
-         style="stop-color:#4080fb;stop-opacity:0.74509805;"
+         style="stop-color:#8cbc65;stop-opacity:0.74509805;"
          offset="1"
          id="stop3849-1" />
     </linearGradient>
@@ -88,7 +88,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627418"
-     inkscape:cx="6.8680268"
+     inkscape:cx="-0.6670795"
      inkscape:cy="7.900711"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -99,9 +99,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:window-width="1006"
-     inkscape:window-height="723"
+     inkscape:window-height="670"
      inkscape:window-x="23"
-     inkscape:window-y="22"
+     inkscape:window-y="0"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -141,7 +141,7 @@
        sodipodi:cy="8"
        sodipodi:rx="6"
        sodipodi:ry="6"
-       d="M 14,8 A 6,6 0 1 1 2,8 6,6 0 1 1 14,8 z"
+       d="m 14,8 c 0,3.313708 -2.686292,6 -6,6 C 4.6862915,14 2,11.313708 2,8 2,4.6862915 4.6862915,2 8,2 c 3.313708,0 6,2.6862915 6,6 z"
        transform="translate(-1,1037.3622)" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
@@ -161,7 +161,7 @@
        sodipodi:cy="8"
        sodipodi:rx="2"
        sodipodi:ry="2"
-       d="M 10,8 A 2,2 0 1 1 6,8 2,2 0 1 1 10,8 z"
+       d="M 10,8 C 10,9.1045695 9.1045695,10 8,10 6.8954305,10 6,9.1045695 6,8 6,6.8954305 6.8954305,6 8,6 c 1.1045695,0 2,0.8954305 2,2 z"
        transform="translate(-1,1037.3622)" />
     <path
        style="fill:#242328;fill-opacity:1;stroke:none"
