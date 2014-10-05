@@ -24,9 +24,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview540" />
+     inkscape:window-width="1280"
+     inkscape:window-height="640"
+     id="namedview540"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
   <defs
      id="defs4" />
   <metadata
@@ -52,7 +60,7 @@
        x="1.499976"
        y="1037.8622"
        id="rect17861"
-       style="color:#000000;fill:none;stroke:#4080fb;stroke-width:0.99995482;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:none;stroke:#8cbc65;stroke-width:0.99995482000000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
        width="12"
        height="12"
@@ -62,7 +70,7 @@
        y="2"
        transform="translate(0,1036.3622)"
        id="rect3842"
-       style="fill:#313133;fill-opacity:1;stroke:none" />
+       style="fill:#494e49;fill-opacity:1;stroke:none" />
     <path
        d="m 3,1038.3622 c -0.554,0 -1,0.446 -1,1 l 0,1 c 0,-0.554 0.446,-1 1,-1 l 10,0 c 0.554,0 1,0.446 1,1 l 0,-1 c 0,-0.554 -0.446,-1 -1,-1 l -10,0 z"
        id="rect3769"

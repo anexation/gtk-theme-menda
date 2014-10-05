@@ -71,7 +71,7 @@
     <linearGradient
        id="linearGradient3969-0-4">
       <stop
-         style="stop-color:#353537;stop-opacity:1;"
+         style="stop-color:#494e49;stop-opacity:1;"
          offset="0"
          id="stop3971-2-6" />
       <stop
@@ -137,9 +137,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.998318"
-     inkscape:cx="11.614291"
-     inkscape:cy="12.11204"
+     inkscape:zoom="11.666667"
+     inkscape:cx="47.697616"
+     inkscape:cy="12.793135"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -148,10 +148,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1053"
+     inkscape:window-width="1280"
+     inkscape:window-height="640"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      showguides="true"
@@ -183,7 +183,7 @@
      inkscape:groupmode="layer"
      transform="translate(-116,93)">
     <rect
-       style="fill:#313133;fill-opacity:1;stroke:none"
+       style="fill:#494e49;fill-opacity:1;stroke:none"
        id="rect3865"
        width="58"
        height="22"
@@ -1164,7 +1164,7 @@
          id="path2555-7-1-7-0"
          d="M 11,0.5 C 5.20646,0.5 0.5,5.20646 0.5,11 0.5,16.79354 5.20646,21.5 11,21.5 16.79354,21.5 21.50001,16.79354 21.5,11 21.5,5.20646 16.79354,0.5 11,0.5 z" />
       <path
-         d="M 21,11 A 10,10 0 1 1 1,11 10,10 0 1 1 21,11 z"
+         d="M 21,11 C 21,16.522847 16.522847,21 11,21 5.4771525,21 1,16.522847 1,11 1,5.4771525 5.4771525,1 11,1 16.522847,1 21,5.4771525 21,11 z"
          sodipodi:ry="10"
          sodipodi:rx="10"
          sodipodi:cy="11"
@@ -1173,7 +1173,7 @@
          style="fill:url(#linearGradient6345);fill-opacity:1;stroke:none"
          sodipodi:type="arc" />
       <path
-         d="m 14,11 a 3,3 0 1 1 -6,0 3,3 0 1 1 6,0 z"
+         d="m 14,11 c 0,1.656854 -1.343146,3 -3,3 -1.6568542,0 -3,-1.343146 -3,-3 0,-1.6568542 1.3431458,-3 3,-3 1.656854,0 3,1.3431458 3,3 z"
          sodipodi:ry="3"
          sodipodi:rx="3"
          sodipodi:cy="11"

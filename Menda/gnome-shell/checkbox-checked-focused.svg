@@ -27,7 +27,15 @@
      inkscape:pageshadow="2"
      inkscape:window-width="640"
      inkscape:window-height="480"
-     id="namedview426" />
+     id="namedview426"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="578"
+     inkscape:window-y="106"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
   <defs
      id="defs4">
     <linearGradient
@@ -45,7 +53,7 @@
        id="linearGradient3969">
       <stop
          id="stop3971"
-         style="stop-color:#2c2c2c;stop-opacity:1"
+         style="stop-color:#494e49;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop3973"
@@ -65,11 +73,11 @@
        id="linearGradient3845-2">
       <stop
          id="stop3847-7"
-         style="stop-color:#4080fb;stop-opacity:1"
+         style="stop-color:#8cbc65;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop3849-1"
-         style="stop-color:#4080fb;stop-opacity:1"
+         style="stop-color:#8cbc65;stop-opacity:1;"
          offset="1" />
     </linearGradient>
     <linearGradient

@@ -95,7 +95,7 @@ StScrollBar StButton#vhandle:hover {
 
 StScrollBar StButton#hhandle:active,
 StScrollBar StButton#vhandle:active {
-    background-color: #4080FB;
+    background-color: #8CBC65;
 }
 
 /* Check Boxes */
@@ -129,7 +129,7 @@ StScrollBar StButton#vhandle:active {
     -slider-height: 3px;
     -slider-background-color: rgba(0,0,0,0.2);
     -slider-border-color: rgba(0,0,0,0.3);
-    -slider-active-background-color: rgba(64,128,251,1.0);
+    -slider-active-background-color: rgba(140,188,101,1.0);
     -slider-active-border-color: rgba(0,0,0,0.7);
     -slider-border-width: 1px;
     -slider-handle-radius: 1px;
@@ -341,7 +341,7 @@ StScrollBar StButton#vhandle:active {
 }
 
 .nm-dialog-item:selected {
-    background-color: rgba(64,128,251,0.8);
+    background-color: rgba(140,188,101,0.8);
 }
 
 .nm-dialog-icons {
@@ -529,7 +529,7 @@ StScrollBar StButton#vhandle:active {
     caret-color: white;
     caret-size: 1px;
     selected-color: white;
-    selection-background-color: #4080FB;
+    selection-background-color: #8CBC65;
     padding: 8px 12px 9px 12px;
 }
 
@@ -834,7 +834,7 @@ StScrollBar StButton#vhandle:active {
 }
 
 .workspace-thumbnail-indicator {
-    border: 4px solid rgba(64,128,251,0.8);
+    border: 4px solid rgba(140,188,101,0.8);
     border-radius: 1px;
     padding: 1px;
 }
@@ -879,7 +879,7 @@ StScrollBar StButton#vhandle:active {
 }
 
 .window-clone-border {
-    border: 4px solid rgba(64, 128, 251, 0.8);
+    border: 4px solid rgba(140, 188, 101, 0.8);
     border-radius: 4px;
 }
 
@@ -1253,7 +1253,7 @@ StScrollBar StButton#vhandle:active {
 }
 
 .show-apps:hover .show-apps-icon {
-    color: #4080FB;
+    color: #8CBC65;
 }
 
 .show-apps:hover > .overview-icon {
@@ -1569,7 +1569,7 @@ StScrollBar StButton#vhandle:active {
 
 .calendar-today {
     background-image: none;
-	background-color: rgba(64, 128, 251, .2);
+	background-color: rgba(140, 188, 101, .2);
     text-shadow: black 0px 2px 2px;
     font-weight: bold;
 }
@@ -1648,7 +1648,7 @@ StScrollBar StButton#vhandle:active {
 
 /* Message Tray */
 #message-tray {
-    background: #454649 url(message-tray-background.png);
+    background: #494E49 url(message-tray-background.png);
     background-repeat: repeat;
     height: 72px;
 }
@@ -2082,14 +2082,14 @@ StScrollBar StButton#vhandle:active {
 .ws-switcher-active-up {
     height: 30px;
     background: rgba(0,0,0,0.33);
-    border: 1px solid #4080fb;
+    border: 1px solid #8CBC65;
     background-image: url("ws-switch-arrow-up.png");
     border-radius: 2px;
 }
 
 .ws-switcher-active-down {
     height: 30px;
-    border: 1px solid #4080fb;
+    border: 1px solid #8CBC65;
     background: rgba(0,0,0,0.33);
     background-image: url("ws-switch-arrow-down.png");
     border-radius: 2px;
@@ -2103,8 +2103,8 @@ StScrollBar StButton#vhandle:active {
 
 /* Tile previews */
 .tile-preview {
-    background-color: rgba(64, 128, 251, 0.35);
-    border: 1px solid #4080FB;
+    background-color: rgba(140, 188, 101, 0.35);
+    border: 1px solid #8CBC65;
 }
 
 .tile-preview-left.on-primary {
