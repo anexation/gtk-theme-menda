@@ -680,7 +680,7 @@ style "scrollbar" {
 style "menubar" {
 
   bg[PRELIGHT] = "#FFF"	
-  bg[NORMAL] = "#454749"
+  bg[NORMAL] = "#494B4B"
   fg[NORMAL] = @selected_fg_color
   fg[SELECTED] = @text_color
   fg[INSENSITIVE] = shade(0.5, @selected_fg_color)
@@ -2330,8 +2330,8 @@ style "eclipse-tooltips" {
 # Chromium
 style "chrome-gtk-frame" {
 
-  ChromeGtkFrame::frame-color = "#454749"
-  ChromeGtkFrame::inactive-frame-color = "#454749"
+  ChromeGtkFrame::frame-color = "#494B4B"
+  ChromeGtkFrame::inactive-frame-color = "#494B4B"
 
   ChromeGtkFrame::frame-gradient-size = 16
   ChromeGtkFrame::frame-gradient-color = shade(0.5, @bg_color)
