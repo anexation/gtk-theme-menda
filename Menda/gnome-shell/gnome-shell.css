@@ -145,7 +145,7 @@ StScrollBar StButton#vhandle:active {
 
 .candidate-popup-boxpointer {
     -arrow-border-radius: 3px;
-    -arrow-background-color: #494E49;
+    -arrow-background-color: #1e1e1e;
     -arrow-border-width: 1px;
     -arrow-border-color: rgba(0,0,0,1.0);
     -arrow-base: 5;
@@ -652,8 +652,8 @@ StScrollBar StButton#vhandle:active {
 }
 
 .panel-corner:hover {
-    -panel-corner-border-color: #494E49;
-    -panel-corner-background-color: #494E49;
+    -panel-corner-border-color: #1e1e1e;
+    -panel-corner-background-color: #1e1e1e;
 }
 
 .panel-corner.lock-screen,
@@ -785,10 +785,10 @@ StScrollBar StButton#vhandle:active {
 .system-menu-action:focus {
     color: #8CBC65;
     border: 1px solid #1D1D1F;
-    background-gradient-start: #5c5f63;
-    background-gradient-end: #3b3c3e;
+    background-gradient-start: #1e1e1e;
+    background-gradient-end: #303030;
     background-gradient-direction: vertical;
-	box-shadow: inset 0px 1px #7e8084;
+	box-shadow: inset 0px 1px #303030;
     padding: 13px;
 }
 
@@ -1648,7 +1648,7 @@ StScrollBar StButton#vhandle:active {
 
 /* Message Tray */
 #message-tray {
-    background: #494E49 url(message-tray-background.png);
+    background: #1e1e1e url(message-tray-background.png);
     background-repeat: repeat;
     height: 72px;
 }
