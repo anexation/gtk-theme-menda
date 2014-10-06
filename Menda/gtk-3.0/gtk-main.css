@@ -1,5 +1,5 @@
 /* GTK NAMED COLORS */
-@define-color theme_fg_color #3c3c3e;
+@define-color theme_fg_color #3C3E3C;
 @define-color theme_bg_color #F5F5F7;
 @define-color theme_base_color white;
 @define-color theme_selected_bg_color #8CBC65;
@@ -34,7 +34,7 @@
 @define-color button_hover_gradient_color_a @theme_base_color;
 @define-color button_hover_gradient_color_b shade (@button_gradient_color_a, 0.94);
 
-@define-color button_active_gradient_color_a #6a6a6c;
+@define-color button_active_gradient_color_a #6A6C6A;
 @define-color button_active_gradient_color_b #949596;
 
 @define-color button_active_text @theme_selected_fg_color;
@@ -128,14 +128,14 @@
 @define-color wm_title_highlight_dark alpha(@theme_fg_color, 0.0);
 @define-color wm_title_shadow @wm_title_highlight;
 
-@define-color wm_bg_a #f7f7f7;
-@define-color wm_bg_b #EAEBED;
-@define-color metacity_bg_a @wm_bg_a;
-@define-color metacity_bg_b @theme_bg_color;
+@define-color wm_bg_a #1e1e1e;
+@define-color wm_bg_b #8CBC65;
+@define-color metacity_bg_a #1e1e1e;
+@define-color metacity_bg_b #1e1e1e;
 
 @define-color wm_shadow alpha(black, 0.35);
 @define-color window_frame alpha(black, 0.3);
-@define-color wm_border #6d6d6d;
+@define-color wm_border #1e1e1e;
 
 
 @import url("gtk-widgets.css");
