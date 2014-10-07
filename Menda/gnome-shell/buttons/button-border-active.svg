@@ -74,11 +74,11 @@
       <stop
          id="stop3795-8"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#1e1e1e;stop-opacity:1;" />
       <stop
          id="stop3797-3"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;" />
+         style="stop-color:#1e1e1e;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        y2="3"
@@ -105,10 +105,10 @@
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="741"
+     inkscape:window-width="1280"
+     inkscape:window-height="640"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
