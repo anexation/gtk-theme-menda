@@ -23,8 +23,6 @@ shadow_opacity=35
 
 title_shadow_active=true
 
-resize_opacity=100
-move_opacity=100
-popup_opacity=100
+
 show_frame_shadow=true
 show_popup_shadow=true
