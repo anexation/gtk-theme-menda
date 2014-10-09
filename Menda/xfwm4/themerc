@@ -20,9 +20,3 @@ shadow_delta_width=0
 shadow_delta_x=0
 shadow_delta_y=-10
 shadow_opacity=35
-
-title_shadow_active=true
-
-
-show_frame_shadow=true
-show_popup_shadow=true
