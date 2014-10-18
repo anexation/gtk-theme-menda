@@ -27,8 +27,8 @@
 @define-color button_hover_gradient_color_a #8CBC65;
 @define-color button_hover_gradient_color_b #8CBC65;
 
-@define-color button_active_gradient_color_a #A5CA85;
-@define-color button_active_gradient_color_b #A5CA85;
+@define-color button_active_gradient_color_a #689742;
+@define-color button_active_gradient_color_b #689742;
 
 @define-color button_active_text @theme_selected_fg_color;
 @define-color button_active_text_shadow alpha(black, 0.4);
@@ -165,6 +165,9 @@
 @define-color dark_wm_bg_b #1e1e1e;
 @define-color dark_wm_title_shadow alpha(black, 0.8);
 @define-color dark_window_frame alpha(black, 0.85);
+
+
+
 /*******/
 
 @import url("gtk-widgets.css");
@@ -181,3 +184,4 @@
 @import url("window-controls.css");
 @import url("tabs.css");
 @import url("tabs-darker-overrides.css");
+@import url("mate-applications.css");
